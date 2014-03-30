@@ -40,3 +40,7 @@ Tech
 -  Python
 -  JSON
 -  Google App Engine
+
+Todo
+---------------------
+Support school abbreviations such as UF, FSU, etc.
