@@ -1,7 +1,7 @@
 institutions-search
 ===================
 
-Search for a U.S. college or university by name.
+Search for a U.S. college or university by name (or part of the name).
 
 [Demo](http://institutions-search.appspot.com/?q=florida)
 
