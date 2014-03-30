@@ -19,7 +19,15 @@ q (optional) - Returns an array of school names that contain the value of this p
 
 **Response Type**
 
-A JSON array of results.
+JSON
+
+**Example**
+
+GET http://institutions-search.appspot.com/?q=fresno
+
+Returns:
+
+    ["California State University-Fresno", "Fresno City College", "Fresno Pacific University", "Heald College-Fresno", "San Joaquin Valley College-Fresno", "San Joaquin Valley College-Fresno Aviation", "Kaplan College-Fresno"]
 
 **Tech**
 
