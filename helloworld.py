@@ -1,8 +1,8 @@
-"""a simple webapp2 server."""
+"""institutions-search: Search for a U.S. college or university by name."""
+"""https://github.com/micahbolen/institutions-search"""
 
 import webapp2
 
-import csv 
 import json
 
 
