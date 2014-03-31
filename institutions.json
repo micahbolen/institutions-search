@@ -13,7 +13,7 @@
   },
   {
     "unitid":100663,
-    "name":"University of Alabama at Birmingham",
+    "name":"UA University of Alabama at Birmingham",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -25,13 +25,13 @@
   },
   {
     "unitid":100706,
-    "name":"University of Alabama in Huntsville",
+    "name":"UAH University of Alabama in Huntsville",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":100724,
-    "name":"Alabama State University",
+    "name":" ASU Alabama State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -67,13 +67,13 @@
   },
   {
     "unitid":100858,
-    "name":"Auburn University",
+    "name":"AU Auburn University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":100937,
-    "name":"Birmingham Southern College",
+    "name":"BSC Birmingham Southern College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -247,7 +247,7 @@
   },
   {
     "unitid":101879,
-    "name":"University of North Alabama",
+    "name":"UNA University of North Alabama",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -259,7 +259,7 @@
   },
   {
     "unitid":101912,
-    "name":"Oakwood University",
+    "name":"OU Oakwood University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -313,13 +313,13 @@
   },
   {
     "unitid":102094,
-    "name":"University of South Alabama",
+    "name":"USA University of South Alabama",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":102234,
-    "name":"Spring Hill College",
+    "name":"SHC Spring Hill College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -373,7 +373,7 @@
   },
   {
     "unitid":102553,
-    "name":"University of Alaska Anchorage",
+    "name":"UAA University of Alaska Anchorage",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -385,7 +385,7 @@
   },
   {
     "unitid":102614,
-    "name":"University of Alaska Fairbanks",
+    "name":"UAF University of Alaska Fairbanks",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -481,7 +481,7 @@
   },
   {
     "unitid":104151,
-    "name":"Arizona State University",
+    "name":"ASU Arizona State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -553,7 +553,7 @@
   },
   {
     "unitid":104717,
-    "name":"Grand Canyon University",
+    "name":"GCU Grand Canyon University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -643,7 +643,7 @@
   },
   {
     "unitid":105525,
-    "name":"Pima Community College",
+    "name":"PCC Pima Community College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -715,7 +715,7 @@
   },
   {
     "unitid":106245,
-    "name":"University of Arkansas at Little Rock",
+    "name":"UALR University of Arkansas at Little Rock",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -745,13 +745,13 @@
   },
   {
     "unitid":106412,
-    "name":"University of Arkansas at Pine Bluff",
+    "name":"UAPB University of Arkansas at Pine Bluff",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":106449,
-    "name":"Arkansas State University-Beebe",
+    "name":"ASU Arkansas State University-Beebe",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -769,7 +769,7 @@
   },
   {
     "unitid":106485,
-    "name":"University of Arkansas at Monticello",
+    "name":"UAM University of Arkansas at Monticello",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -781,7 +781,7 @@
   },
   {
     "unitid":106704,
-    "name":"University of Central Arkansas",
+    "name":"UCA University of Central Arkansas",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -1075,7 +1075,7 @@
   },
   {
     "unitid":110097,
-    "name":"Biola University",
+    "name":"BU Biola University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -1117,7 +1117,7 @@
   },
   {
     "unitid":110361,
-    "name":"California Baptist University",
+    "name":"CBU California Baptist University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -1147,7 +1147,7 @@
   },
   {
     "unitid":110422,
-    "name":"California Polytechnic State University-San Luis Obispo",
+    "name":"CAL POLY California Polytechnic State University-San Luis Obispo",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -1381,7 +1381,7 @@
   },
   {
     "unitid":111948,
-    "name":"Chapman University",
+    "name":"CU Chapman University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -1429,7 +1429,7 @@
   },
   {
     "unitid":112260,
-    "name":"Claremont McKenna College",
+    "name":"CMC Claremont McKenna College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -2215,7 +2215,7 @@
   },
   {
     "unitid":120254,
-    "name":"Occidental College",
+    "name":"Oxy Occidental College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -2227,7 +2227,7 @@
   },
   {
     "unitid":120342,
-    "name":"Orange Coast College",
+    "name":"OCC Orange Coast College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -2293,7 +2293,7 @@
   },
   {
     "unitid":120883,
-    "name":"University of the Pacific",
+    "name":"UOP University of the Pacific",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -2311,7 +2311,7 @@
   },
   {
     "unitid":121044,
-    "name":"Pasadena City College",
+    "name":"PCC Pasadena City College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -2347,7 +2347,7 @@
   },
   {
     "unitid":121309,
-    "name":"Point Loma Nazarene University",
+    "name":"PLNU Point Loma Nazarene University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -2467,13 +2467,13 @@
   },
   {
     "unitid":122409,
-    "name":"San Diego State University",
+    "name":"SDSU San Diego State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":122436,
-    "name":"University of San Diego",
+    "name":"USD University of San Diego",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -2491,7 +2491,7 @@
   },
   {
     "unitid":122597,
-    "name":"San Francisco State University",
+    "name":"SFSU San Francisco State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -2503,7 +2503,7 @@
   },
   {
     "unitid":122612,
-    "name":"University of San Francisco",
+    "name":"USF University of San Francisco",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -2551,7 +2551,7 @@
   },
   {
     "unitid":122755,
-    "name":"San Jose State University",
+    "name":"SJSU San Jose State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -2593,7 +2593,7 @@
   },
   {
     "unitid":122931,
-    "name":"Santa Clara University",
+    "name":"SCU Santa Clara University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -2767,7 +2767,7 @@
   },
   {
     "unitid":123961,
-    "name":"University of Southern California",
+    "name":"USC University of Southern California",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -2995,13 +2995,13 @@
   },
   {
     "unitid":126562,
-    "name":"University of Colorado Denver",
+    "name":"UCD University of Colorado Denver",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":126580,
-    "name":"University of Colorado Colorado Springs",
+    "name":"UCCS University of Colorado Colorado Springs",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3013,7 +3013,7 @@
   },
   {
     "unitid":126614,
-    "name":"University of Colorado Boulder",
+    "name":"UCB University of Colorado Boulder",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3025,7 +3025,7 @@
   },
   {
     "unitid":126678,
-    "name":"Colorado College",
+    "name":"CC Colorado College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3121,7 +3121,7 @@
   },
   {
     "unitid":127060,
-    "name":"University of Denver",
+    "name":"DU University of Denver",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3199,7 +3199,7 @@
   },
   {
     "unitid":127741,
-    "name":"University of Northern Colorado",
+    "name":"UNC University of Northern Colorado",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3229,7 +3229,7 @@
   },
   {
     "unitid":127884,
-    "name":"Pueblo Community College",
+    "name":"PCC Pueblo Community College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3283,7 +3283,7 @@
   },
   {
     "unitid":128328,
-    "name":"United States Air Force Academy",
+    "name":"USAFA United States Air Force Academy",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3325,7 +3325,7 @@
   },
   {
     "unitid":128771,
-    "name":"Central Connecticut State University",
+    "name":"CCSU Central Connecticut State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3343,7 +3343,7 @@
   },
   {
     "unitid":129020,
-    "name":"University of Connecticut",
+    "name":"UConn University of Connecticut",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3445,7 +3445,7 @@
   },
   {
     "unitid":129941,
-    "name":"University of New Haven",
+    "name":"UNH University of New Haven",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3481,7 +3481,7 @@
   },
   {
     "unitid":130226,
-    "name":"Quinnipiac University",
+    "name":"QU Quinnipiac University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3511,7 +3511,7 @@
   },
   {
     "unitid":130493,
-    "name":"Southern Connecticut State University",
+    "name":"SCSU Southern Connecticut State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3589,7 +3589,7 @@
   },
   {
     "unitid":130943,
-    "name":"University of Delaware",
+    "name":"UD University of Delaware",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3631,7 +3631,7 @@
   },
   {
     "unitid":131399,
-    "name":"University of the District of Columbia",
+    "name":"UDC University of the District of Columbia",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3649,7 +3649,7 @@
   },
   {
     "unitid":131469,
-    "name":"George Washington University",
+    "name":"GW GWU George Washington University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3661,7 +3661,7 @@
   },
   {
     "unitid":131520,
-    "name":"Howard University",
+    "name":"HU Howard University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3769,7 +3769,7 @@
   },
   {
     "unitid":132903,
-    "name":"University of Central Florida",
+    "name":"UCF University of Central Florida",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3829,7 +3829,7 @@
   },
   {
     "unitid":133669,
-    "name":"Florida Atlantic University",
+    "name":"FAU Florida Atlantic University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3883,7 +3883,7 @@
   },
   {
     "unitid":133951,
-    "name":"Florida International University",
+    "name":"FIU Florida International University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3913,7 +3913,7 @@
   },
   {
     "unitid":134097,
-    "name":"Florida State University",
+    "name":"FSU Florida State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -3931,7 +3931,7 @@
   },
   {
     "unitid":134130,
-    "name":"University of Florida",
+    "name":"UF University of Florida",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -4003,7 +4003,7 @@
   },
   {
     "unitid":134945,
-    "name":"Jacksonville University",
+    "name":"JU Jacksonville University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -4105,7 +4105,7 @@
   },
   {
     "unitid":136172,
-    "name":"University of North Florida",
+    "name":"UNF University of North Florida",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -4117,7 +4117,7 @@
   },
   {
     "unitid":136215,
-    "name":"Nova Southeastern University",
+    "name":"NSU Nova Southeastern University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -4231,7 +4231,7 @@
   },
   {
     "unitid":137351,
-    "name":"University of South Florida-Main Campus",
+    "name":"USF University of South Florida-Main Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -4285,7 +4285,7 @@
   },
   {
     "unitid":137847,
-    "name":"The University of Tampa",
+    "name":"UT The University of Tampa",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -4333,7 +4333,7 @@
   },
   {
     "unitid":138354,
-    "name":"The University of West Florida",
+    "name":"UWF The University of West Florida",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -4375,7 +4375,7 @@
   },
   {
     "unitid":138716,
-    "name":"Albany State University",
+    "name":" ASU Albany State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -4435,7 +4435,7 @@
   },
   {
     "unitid":138983,
-    "name":"Augusta State University",
+    "name":"ASU Augusta State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -4585,7 +4585,7 @@
   },
   {
     "unitid":139755,
-    "name":"Georgia Institute of Technology-Main Campus",
+    "name":"GT Georgia Institute of Technology-Main Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -4615,19 +4615,19 @@
   },
   {
     "unitid":139931,
-    "name":"Georgia Southern University",
+    "name":"GSU GS Georgia Southern University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":139940,
-    "name":"Georgia State University",
+    "name":"GSU Georgia State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":139959,
-    "name":"University of Georgia",
+    "name":"UGA University of Georgia",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -4675,7 +4675,7 @@
   },
   {
     "unitid":140164,
-    "name":"Kennesaw State University",
+    "name":"KSU Kennesaw State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -4807,7 +4807,7 @@
   },
   {
     "unitid":140960,
-    "name":"Savannah State University",
+    "name":"SSU Savannah State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -4921,7 +4921,7 @@
   },
   {
     "unitid":141574,
-    "name":"University of Hawaii at Manoa",
+    "name":"UH University of Hawaii at Manoa",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -4969,7 +4969,7 @@
   },
   {
     "unitid":141963,
-    "name":"University of Hawaii System Office",
+    "name":"UH University of Hawaii System Office",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -4999,7 +4999,7 @@
   },
   {
     "unitid":142115,
-    "name":"Boise State University",
+    "name":"BSU Boise State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -5011,13 +5011,13 @@
   },
   {
     "unitid":142276,
-    "name":"Idaho State University",
+    "name":"ISU Idaho State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":142285,
-    "name":"University of Idaho",
+    "name":"UI University of Idaho",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -5131,7 +5131,7 @@
   },
   {
     "unitid":143358,
-    "name":"Bradley University",
+    "name":"BU Bradley University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -5173,7 +5173,7 @@
   },
   {
     "unitid":144050,
-    "name":"University of Chicago",
+    "name":"UC University of Chicago",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -5257,7 +5257,7 @@
   },
   {
     "unitid":144740,
-    "name":"DePaul University",
+    "name":"DPU DePaul University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -5359,7 +5359,7 @@
   },
   {
     "unitid":145600,
-    "name":"University of Illinois at Chicago",
+    "name":"UIC University of Illinois at Chicago",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -5407,7 +5407,7 @@
   },
   {
     "unitid":145725,
-    "name":"Illinois Institute of Technology",
+    "name":"IIT Illinois Institute of Technology",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -5419,7 +5419,7 @@
   },
   {
     "unitid":145813,
-    "name":"Illinois State University",
+    "name":"ISU Illinois State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -5581,7 +5581,7 @@
   },
   {
     "unitid":146719,
-    "name":"Loyola University Chicago",
+    "name":"LUC Loyola University Chicago",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -5713,7 +5713,7 @@
   },
   {
     "unitid":147703,
-    "name":"Northern Illinois University",
+    "name":"NIU Northern Illinois University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -5725,7 +5725,7 @@
   },
   {
     "unitid":147767,
-    "name":"Northwestern University",
+    "name":"NU Northwestern University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -5935,13 +5935,13 @@
   },
   {
     "unitid":149222,
-    "name":"Southern Illinois University Carbondale",
+    "name":"SIUC SIU Southern Illinois University Carbondale",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":149231,
-    "name":"Southern Illinois University Edwardsville",
+    "name":"SIUE Southern Illinois University Edwardsville",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -6037,13 +6037,13 @@
   },
   {
     "unitid":150066,
-    "name":"Anderson University",
+    "name":"AU Anderson University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":150136,
-    "name":"Ball State University",
+    "name":"BSU Ball State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -6055,7 +6055,7 @@
   },
   {
     "unitid":150163,
-    "name":"Butler University",
+    "name":"BU Butler University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -6175,13 +6175,13 @@
   },
   {
     "unitid":151306,
-    "name":"University of Southern Indiana",
+    "name":"USI University of Southern Indiana",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":151324,
-    "name":"Indiana State University",
+    "name":"ISU Indiana State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -6319,7 +6319,7 @@
   },
   {
     "unitid":152080,
-    "name":"University of Notre Dame",
+    "name":"ND University of Notre Dame",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -6349,7 +6349,7 @@
   },
   {
     "unitid":152318,
-    "name":"Rose-Hulman Institute of Technology",
+    "name":"RHIT Rose-Hulman Institute of Technology",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -6409,7 +6409,7 @@
   },
   {
     "unitid":152600,
-    "name":"Valparaiso University",
+    "name":"Valpo Valparaiso University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -6589,7 +6589,7 @@
   },
   {
     "unitid":153603,
-    "name":"Iowa State University",
+    "name":"ISU Iowa State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -6607,7 +6607,7 @@
   },
   {
     "unitid":153658,
-    "name":"University of Iowa",
+    "name":"UI University of Iowa",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -6661,7 +6661,7 @@
   },
   {
     "unitid":154022,
-    "name":"Ashford University",
+    "name":"AU Ashford University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -6673,7 +6673,7 @@
   },
   {
     "unitid":154095,
-    "name":"University of Northern Iowa",
+    "name":"UNI University of Northern Iowa",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -6973,7 +6973,7 @@
   },
   {
     "unitid":155317,
-    "name":"University of Kansas",
+    "name":"KU University of Kansas",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -6985,7 +6985,7 @@
   },
   {
     "unitid":155399,
-    "name":"Kansas State University",
+    "name":"K-State KSU Kansas State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -7129,7 +7129,7 @@
   },
   {
     "unitid":156213,
-    "name":"Asbury University",
+    "name":"AU Asbury University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -7273,7 +7273,7 @@
   },
   {
     "unitid":157058,
-    "name":"Kentucky State University",
+    "name":"KSU Kentucky State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -7285,7 +7285,7 @@
   },
   {
     "unitid":157085,
-    "name":"University of Kentucky",
+    "name":"UK University of Kentucky",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -7315,7 +7315,7 @@
   },
   {
     "unitid":157289,
-    "name":"University of Louisville",
+    "name":"UofL University of Louisville",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -7351,13 +7351,13 @@
   },
   {
     "unitid":157386,
-    "name":"Morehead State University",
+    "name":"MSU Morehead State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":157401,
-    "name":"Murray State University",
+    "name":"MSU Murray State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -7549,7 +7549,7 @@
   },
   {
     "unitid":159009,
-    "name":"Grambling State University",
+    "name":"GSU Grambling State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -7609,7 +7609,7 @@
   },
   {
     "unitid":159647,
-    "name":"Louisiana Tech University",
+    "name":"LA Tech Louisiana Tech University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -7627,7 +7627,7 @@
   },
   {
     "unitid":159939,
-    "name":"University of New Orleans",
+    "name":"UNO University of New Orleans",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -7747,7 +7747,7 @@
   },
   {
     "unitid":160755,
-    "name":"Tulane University of Louisiana",
+    "name":"TU Tulane University of Louisiana",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -7921,7 +7921,7 @@
   },
   {
     "unitid":161554,
-    "name":"University of Southern Maine",
+    "name":"USM University of Southern Maine",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -7969,13 +7969,13 @@
   },
   {
     "unitid":161873,
-    "name":"University of Baltimore",
+    "name":"UB University of Baltimore",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":162007,
-    "name":"Bowie State University",
+    "name":"BSU Bowie State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -8011,7 +8011,7 @@
   },
   {
     "unitid":162283,
-    "name":"Coppin State University",
+    "name":"CSU Coppin State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -8023,7 +8023,7 @@
   },
   {
     "unitid":162584,
-    "name":"Frostburg State University",
+    "name":"FSU Frostburg State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -8071,7 +8071,7 @@
   },
   {
     "unitid":162928,
-    "name":"Johns Hopkins University",
+    "name":"JHU Johns Hopkins University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -8131,7 +8131,7 @@
   },
   {
     "unitid":163453,
-    "name":"Morgan State University",
+    "name":"MSU Morgan State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -8203,7 +8203,7 @@
   },
   {
     "unitid":164076,
-    "name":"Towson University",
+    "name":"TU Towson University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -8365,7 +8365,7 @@
   },
   {
     "unitid":164924,
-    "name":"Boston College",
+    "name":"BC Boston College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -8377,7 +8377,7 @@
   },
   {
     "unitid":164988,
-    "name":"Boston University",
+    "name":"BU Boston University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -8449,7 +8449,7 @@
   },
   {
     "unitid":165644,
-    "name":"Eastern Nazarene College",
+    "name":"ENC Eastern Nazarene College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -8485,13 +8485,13 @@
   },
   {
     "unitid":165820,
-    "name":"Fitchburg State University",
+    "name":"FSU Fitchburg State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":165866,
-    "name":"Framingham State University",
+    "name":"FSU Framingham State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -8599,7 +8599,7 @@
   },
   {
     "unitid":166629,
-    "name":"University of Massachusetts Amherst",
+    "name":"UMass University of Massachusetts Amherst",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -8635,7 +8635,7 @@
   },
   {
     "unitid":166683,
-    "name":"Massachusetts Institute of Technology",
+    "name":"MIT Massachusetts Institute of Technology",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -8689,7 +8689,7 @@
   },
   {
     "unitid":166939,
-    "name":"Mount Holyoke College",
+    "name":"MHC Mount Holyoke College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -8767,7 +8767,7 @@
   },
   {
     "unitid":167358,
-    "name":"Northeastern University",
+    "name":"NE Northeastern University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -8887,7 +8887,7 @@
   },
   {
     "unitid":168148,
-    "name":"Tufts University",
+    "name":"TU Tufts University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -9019,7 +9019,7 @@
   },
   {
     "unitid":169248,
-    "name":"Central Michigan University",
+    "name":"CMU Central Michigan University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -9073,19 +9073,19 @@
   },
   {
     "unitid":169716,
-    "name":"University of Detroit Mercy",
+    "name":"UDM University of Detroit Mercy",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":169798,
-    "name":"Eastern Michigan University",
+    "name":"EMU Eastern Michigan University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":169910,
-    "name":"Ferris State University",
+    "name":"FSU Ferris State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -9127,7 +9127,7 @@
   },
   {
     "unitid":170082,
-    "name":"Grand Valley State University",
+    "name":"GVSU Grand Valley State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -9193,7 +9193,7 @@
   },
   {
     "unitid":170639,
-    "name":"Lake Superior State University",
+    "name":"LSSU Lake Superior State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -9241,13 +9241,13 @@
   },
   {
     "unitid":171100,
-    "name":"Michigan State University",
+    "name":"MSU Michigan State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":171128,
-    "name":"Michigan Technological University",
+    "name":"MTU Michigan Technological University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -9301,7 +9301,7 @@
   },
   {
     "unitid":171456,
-    "name":"Northern Michigan University",
+    "name":"NMU Northern Michigan University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -9325,7 +9325,7 @@
   },
   {
     "unitid":171571,
-    "name":"Oakland University",
+    "name":"OU Oakland University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -9487,7 +9487,7 @@
   },
   {
     "unitid":173124,
-    "name":"Bemidji State University",
+    "name":"BSU Bemidji State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -9679,7 +9679,7 @@
   },
   {
     "unitid":174066,
-    "name":"University of Minnesota-Twin Cities",
+    "name":"UM University of Minnesota-Twin Cities",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -9955,7 +9955,7 @@
   },
   {
     "unitid":175342,
-    "name":"Alcorn State University",
+    "name":" ASU Alcorn State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -10027,7 +10027,7 @@
   },
   {
     "unitid":175856,
-    "name":"Jackson State University",
+    "name":"JSU Jackson State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -10063,7 +10063,7 @@
   },
   {
     "unitid":176017,
-    "name":"University of Mississippi",
+    "name":"Ole Miss University of Mississippi",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -10075,13 +10075,13 @@
   },
   {
     "unitid":176035,
-    "name":"Mississippi University for Women",
+    "name":"MUW Mississippi University for Women",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":176044,
-    "name":"Mississippi Valley State University",
+    "name":"MVSU Mississippi Valley State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -10099,7 +10099,7 @@
   },
   {
     "unitid":176080,
-    "name":"Mississippi State University",
+    "name":"MSU Mississippi State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -10141,7 +10141,7 @@
   },
   {
     "unitid":176372,
-    "name":"University of Southern Mississippi",
+    "name":"USM University of Southern Mississippi",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -10543,7 +10543,7 @@
   },
   {
     "unitid":178615,
-    "name":"Truman State University",
+    "name":"TSU Truman State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -10609,7 +10609,7 @@
   },
   {
     "unitid":179159,
-    "name":"Saint Louis University-Main Campus",
+    "name":"SLU Saint Louis University-Main Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -10681,7 +10681,7 @@
   },
   {
     "unitid":179557,
-    "name":"Southeast Missouri State University",
+    "name":"SEMo Southeast Missouri State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -10843,7 +10843,7 @@
   },
   {
     "unitid":180489,
-    "name":"The University of Montana",
+    "name":"UM The University of Montana",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -10909,7 +10909,7 @@
   },
   {
     "unitid":181002,
-    "name":"Creighton University",
+    "name":"CU Creighton University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -10939,7 +10939,7 @@
   },
   {
     "unitid":181215,
-    "name":"University of Nebraska at Kearney",
+    "name":"UNK University of Nebraska at Kearney",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -10981,7 +10981,7 @@
   },
   {
     "unitid":181394,
-    "name":"University of Nebraska at Omaha",
+    "name":"UNO University of Nebraska at Omaha",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -11221,7 +11221,7 @@
   },
   {
     "unitid":183044,
-    "name":"University of New Hampshire-Main Campus",
+    "name":"UNH University of New Hampshire-Main Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -11425,7 +11425,7 @@
   },
   {
     "unitid":184603,
-    "name":"Fairleigh Dickinson University-Metropolitan Campus",
+    "name":"FDU Fairleigh Dickinson University-Metropolitan Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -11503,7 +11503,7 @@
   },
   {
     "unitid":185590,
-    "name":"Montclair State University",
+    "name":"MSU Montclair State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -11533,7 +11533,7 @@
   },
   {
     "unitid":186122,
-    "name":"Princeton Theological Seminary",
+    "name":"PTS Princeton Theological Seminary",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -11563,19 +11563,19 @@
   },
   {
     "unitid":186371,
-    "name":"Rutgers University-Camden",
+    "name":"RU Rutgers University-Camden",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":186380,
-    "name":"Rutgers University-New Brunswick",
+    "name":"RU Rutgers University-New Brunswick",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":186399,
-    "name":"Rutgers University-Newark",
+    "name":"RU Rutgers University-Newark",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -11599,7 +11599,7 @@
   },
   {
     "unitid":186618,
-    "name":"College of Saint Elizabeth",
+    "name":"CSE College of Saint Elizabeth",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -11635,7 +11635,7 @@
   },
   {
     "unitid":187134,
-    "name":"The College of New Jersey",
+    "name":"TCNJ The College of New Jersey",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -11737,7 +11737,7 @@
   },
   {
     "unitid":187985,
-    "name":"University of New Mexico-Main Campus",
+    "name":"UNM University of New Mexico-Main Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -11761,7 +11761,7 @@
   },
   {
     "unitid":188030,
-    "name":"New Mexico State University-Main Campus",
+    "name":"NMSU New Mexico State University-Main Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -11839,7 +11839,7 @@
   },
   {
     "unitid":188429,
-    "name":"Adelphi University",
+    "name":"AU Adelphi University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -11881,7 +11881,7 @@
   },
   {
     "unitid":188641,
-    "name":"Alfred University",
+    "name":"AU Alfred University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -12091,7 +12091,7 @@
   },
   {
     "unitid":190150,
-    "name":"Columbia University in the City of New York",
+    "name":" CU Columbia University in the City of New York",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -12115,7 +12115,7 @@
   },
   {
     "unitid":190415,
-    "name":"Cornell University",
+    "name":"CU Cornell University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -12337,7 +12337,7 @@
   },
   {
     "unitid":191241,
-    "name":"Fordham University",
+    "name":"FU Fordham University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -12433,7 +12433,7 @@
   },
   {
     "unitid":191968,
-    "name":"Ithaca College",
+    "name":"IC Ithaca College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -12733,7 +12733,7 @@
   },
   {
     "unitid":193830,
-    "name":"New York Medical College",
+    "name":"NYMC New York Medical College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -12745,7 +12745,7 @@
   },
   {
     "unitid":193900,
-    "name":"New York University",
+    "name":"NYU New York University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -12757,7 +12757,7 @@
   },
   {
     "unitid":193973,
-    "name":"Niagara University",
+    "name":"NU Niagara University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -12775,7 +12775,7 @@
   },
   {
     "unitid":194091,
-    "name":"New York Institute of Technology",
+    "name":"NYIT New York Institute of Technology",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -12901,7 +12901,7 @@
   },
   {
     "unitid":194824,
-    "name":"Rensselaer Polytechnic Institute",
+    "name":"RPI Rensselaer Polytechnic Institute",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -12919,13 +12919,13 @@
   },
   {
     "unitid":195003,
-    "name":"Rochester Institute of Technology",
+    "name":"RIT Rochester Institute of Technology",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":195030,
-    "name":"University of Rochester",
+    "name":"UR University of Rochester",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -12955,7 +12955,7 @@
   },
   {
     "unitid":195164,
-    "name":"St. Bonaventure University",
+    "name":"BONA St. Bonaventure University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -13147,7 +13147,7 @@
   },
   {
     "unitid":196088,
-    "name":"University at Buffalo",
+    "name":"UB University at Buffalo",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -13279,7 +13279,7 @@
   },
   {
     "unitid":196413,
-    "name":"Syracuse University",
+    "name":"SU Syracuse University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -13507,7 +13507,7 @@
   },
   {
     "unitid":197869,
-    "name":"Appalachian State University",
+    "name":"ASU Appalachian State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -13657,13 +13657,13 @@
   },
   {
     "unitid":198385,
-    "name":"Davidson College",
+    "name":"DC Davidson College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":198419,
-    "name":"Duke University",
+    "name":"DU Duke University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -13675,7 +13675,7 @@
   },
   {
     "unitid":198464,
-    "name":"East Carolina University",
+    "name":"ECU East Carolina University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -13705,7 +13705,7 @@
   },
   {
     "unitid":198543,
-    "name":"Fayetteville State University",
+    "name":"FSU Fayetteville State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -13825,7 +13825,7 @@
   },
   {
     "unitid":198871,
-    "name":"Louisburg College",
+    "name":"LC Louisburg College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -13933,7 +13933,7 @@
   },
   {
     "unitid":199157,
-    "name":"North Carolina Central University",
+    "name":"NCCU North Carolina Central University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -13951,7 +13951,7 @@
   },
   {
     "unitid":199193,
-    "name":"North Carolina State University at Raleigh",
+    "name":"NCSU North Carolina State University at Raleigh",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -14269,7 +14269,7 @@
   },
   {
     "unitid":200280,
-    "name":"University of North Dakota",
+    "name":"UND University of North Dakota",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -14287,7 +14287,7 @@
   },
   {
     "unitid":200332,
-    "name":"North Dakota State University-Main Campus",
+    "name":"NDSU North Dakota State University-Main Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -14503,7 +14503,7 @@
   },
   {
     "unitid":201885,
-    "name":"University of Cincinnati-Main Campus",
+    "name":"UC University of Cincinnati-Main Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -14551,7 +14551,7 @@
   },
   {
     "unitid":202134,
-    "name":"Cleveland State University",
+    "name":"CSU Cleveland State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -14593,7 +14593,7 @@
   },
   {
     "unitid":202480,
-    "name":"University of Dayton",
+    "name":"UD University of Dayton",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -14605,7 +14605,7 @@
   },
   {
     "unitid":202523,
-    "name":"Denison University",
+    "name":"DU Denison University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -14971,7 +14971,7 @@
   },
   {
     "unitid":204617,
-    "name":"Ohio Dominican University",
+    "name":"ODU Ohio Dominican University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -14983,43 +14983,43 @@
   },
   {
     "unitid":204635,
-    "name":"Ohio Northern University",
+    "name":"ONU Ohio Northern University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":204662,
-    "name":"Ohio State University Agricultural Technical Institute",
+    "name":"OSU Ohio State University Agricultural Technical Institute",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":204671,
-    "name":"Ohio State University-Lima Campus",
+    "name":"OSU Ohio State University-Lima Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":204680,
-    "name":"Ohio State University-Mansfield Campus",
+    "name":"OSU Ohio State University-Mansfield Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":204699,
-    "name":"Ohio State University-Marion Campus",
+    "name":"OSU Ohio State University-Marion Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":204705,
-    "name":"Ohio State University-Newark Campus",
+    "name":"OSU Ohio State University-Newark Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":204796,
-    "name":"Ohio State University-Main Campus",
+    "name":"OSU Ohio State University-Main Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -15049,7 +15049,7 @@
   },
   {
     "unitid":204857,
-    "name":"Ohio University-Main Campus",
+    "name":"OU Ohio University-Main Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -15409,7 +15409,7 @@
   },
   {
     "unitid":206941,
-    "name":"University of Central Oklahoma",
+    "name":"UCO University of Central Oklahoma",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -15463,7 +15463,7 @@
   },
   {
     "unitid":207263,
-    "name":"Northeastern State University",
+    "name":"NSU Northeastern State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -15493,7 +15493,7 @@
   },
   {
     "unitid":207324,
-    "name":"Oklahoma Christian University",
+    "name":"OC Oklahoma Christian University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -15511,7 +15511,7 @@
   },
   {
     "unitid":207388,
-    "name":"Oklahoma State University-Main Campus",
+    "name":"OSU Oklahoma State University-Main Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -15535,7 +15535,7 @@
   },
   {
     "unitid":207458,
-    "name":"Oklahoma City University",
+    "name":"OCU Oklahoma City University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -15553,7 +15553,7 @@
   },
   {
     "unitid":207582,
-    "name":"Oral Roberts University",
+    "name":"ORU Oral Roberts University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -15583,7 +15583,7 @@
   },
   {
     "unitid":207722,
-    "name":"University of Science and Arts of Oklahoma",
+    "name":"USAO University of Science and Arts of Oklahoma",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -15595,7 +15595,7 @@
   },
   {
     "unitid":207847,
-    "name":"Southeastern Oklahoma State University",
+    "name":"SOSU Southeastern Oklahoma State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -15625,7 +15625,7 @@
   },
   {
     "unitid":207971,
-    "name":"University of Tulsa",
+    "name":"TU University of Tulsa",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -15787,7 +15787,7 @@
   },
   {
     "unitid":209506,
-    "name":"Oregon Institute of Technology",
+    "name":"OIT Oregon Institute of Technology",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -15799,13 +15799,13 @@
   },
   {
     "unitid":209542,
-    "name":"Oregon State University",
+    "name":"OSU Oregon State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":209551,
-    "name":"University of Oregon",
+    "name":"UO University of Oregon",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -15823,19 +15823,19 @@
   },
   {
     "unitid":209746,
-    "name":"Portland Community College",
+    "name":"PCC Portland Community College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":209807,
-    "name":"Portland State University",
+    "name":"PSU Portland State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":209825,
-    "name":"University of Portland",
+    "name":"UP University of Portland",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -16045,7 +16045,7 @@
   },
   {
     "unitid":211273,
-    "name":"Bryn Mawr College",
+    "name":" BMC Bryn Mawr College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -16081,7 +16081,7 @@
   },
   {
     "unitid":211361,
-    "name":"California University of Pennsylvania",
+    "name":"CUP Cal U California University of Pennsylvania",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -16105,7 +16105,7 @@
   },
   {
     "unitid":211440,
-    "name":"Carnegie Mellon University",
+    "name":"CMU Carnegie Mellon University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -16207,7 +16207,7 @@
   },
   {
     "unitid":212054,
-    "name":"Drexel University",
+    "name":"DU Drexel University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -16225,7 +16225,7 @@
   },
   {
     "unitid":212106,
-    "name":"Duquesne University",
+    "name":"DU Duquesne University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -16489,7 +16489,7 @@
   },
   {
     "unitid":213613,
-    "name":"Lock Haven University",
+    "name":"LHU Lock Haven University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -16891,7 +16891,7 @@
   },
   {
     "unitid":215293,
-    "name":"University of Pittsburgh-Pittsburgh Campus",
+    "name":"Pitt University of Pittsburgh-Pittsburgh Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -17011,7 +17011,7 @@
   },
   {
     "unitid":215929,
-    "name":"University of Scranton",
+    "name":"UofS University of Scranton",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -17035,7 +17035,7 @@
   },
   {
     "unitid":216038,
-    "name":"Slippery Rock University of Pennsylvania",
+    "name":"SRU Slippery Rock University of Pennsylvania",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -17053,7 +17053,7 @@
   },
   {
     "unitid":216278,
-    "name":"Susquehanna University",
+    "name":"SU Susquehanna University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -17077,7 +17077,7 @@
   },
   {
     "unitid":216339,
-    "name":"Temple University",
+    "name":"TU Temple University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -17155,7 +17155,7 @@
   },
   {
     "unitid":216597,
-    "name":"Villanova University",
+    "name":"Nova Villanova University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -17275,13 +17275,13 @@
   },
   {
     "unitid":217402,
-    "name":"Providence College",
+    "name":"PC Providence College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":217420,
-    "name":"Rhode Island College",
+    "name":"RIC Rhode Island College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -17293,19 +17293,19 @@
   },
   {
     "unitid":217484,
-    "name":"University of Rhode Island",
+    "name":"URI University of Rhode Island",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":217493,
-    "name":"Rhode Island School of Design",
+    "name":"RISD Rhode Island School of Design",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":217518,
-    "name":"Roger Williams University",
+    "name":"RWU Roger Williams University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -17359,7 +17359,7 @@
   },
   {
     "unitid":217749,
-    "name":"Bob Jones University",
+    "name":"BJU Bob Jones University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -17371,7 +17371,7 @@
   },
   {
     "unitid":217819,
-    "name":"College of Charleston",
+    "name":"C of C College of Charleston",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -17395,7 +17395,7 @@
   },
   {
     "unitid":217882,
-    "name":"Clemson University",
+    "name":"CU Clemson University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -17461,7 +17461,7 @@
   },
   {
     "unitid":218070,
-    "name":"Furman University",
+    "name":"FU Furman University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -17551,7 +17551,7 @@
   },
   {
     "unitid":218645,
-    "name":"University of South Carolina-Aiken",
+    "name":"USC University of South Carolina-Aiken",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -17593,13 +17593,13 @@
   },
   {
     "unitid":218724,
-    "name":"Coastal Carolina University",
+    "name":"CCU Coastal Carolina University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":218733,
-    "name":"South Carolina State University",
+    "name":"SCSU South Carolina State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -17743,7 +17743,7 @@
   },
   {
     "unitid":219259,
-    "name":"Northern State University",
+    "name":"NSU Northern State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -17761,13 +17761,13 @@
   },
   {
     "unitid":219347,
-    "name":"South Dakota School of Mines and Technology",
+    "name":"SDSM&T South Dakota School of Mines and Technology",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":219356,
-    "name":"South Dakota State University",
+    "name":"SDSU South Dakota State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -17917,7 +17917,7 @@
   },
   {
     "unitid":220075,
-    "name":"East Tennessee State University",
+    "name":"ETSU East Tennessee State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -18007,7 +18007,7 @@
   },
   {
     "unitid":220631,
-    "name":"Lincoln Memorial University",
+    "name":"LMU Lincoln Memorial University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -18055,7 +18055,7 @@
   },
   {
     "unitid":220978,
-    "name":"Middle Tennessee State University",
+    "name":"MTSU Middle Tennessee State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -18151,7 +18151,7 @@
   },
   {
     "unitid":221759,
-    "name":"The University of Tennessee",
+    "name":"UT The University of Tennessee",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -18169,7 +18169,7 @@
   },
   {
     "unitid":221838,
-    "name":"Tennessee State University",
+    "name":"TSU Tennessee State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -18211,7 +18211,7 @@
   },
   {
     "unitid":221999,
-    "name":"Vanderbilt University",
+    "name":"Vandy Vanderbilt University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -18277,7 +18277,7 @@
   },
   {
     "unitid":222831,
-    "name":"Angelo State University",
+    "name":"ASU Angelo State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -18337,7 +18337,7 @@
   },
   {
     "unitid":223232,
-    "name":"Baylor University",
+    "name":"BU Baylor University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -18463,7 +18463,7 @@
   },
   {
     "unitid":224323,
-    "name":"University of Dallas",
+    "name":"UD University of Dallas",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -18607,19 +18607,19 @@
   },
   {
     "unitid":225432,
-    "name":"University of Houston-Downtown",
+    "name":"UHD University of Houston-Downtown",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":225502,
-    "name":"University of Houston-Victoria",
+    "name":"UHV University of Houston-Victoria",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":225511,
-    "name":"University of Houston",
+    "name":"UH University of Houston",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -18829,7 +18829,7 @@
   },
   {
     "unitid":227216,
-    "name":"University of North Texas",
+    "name":"UNT University of North Texas",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -18985,7 +18985,7 @@
   },
   {
     "unitid":228246,
-    "name":"Southern Methodist University",
+    "name":"SMU Southern Methodist University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19045,7 +19045,7 @@
   },
   {
     "unitid":228529,
-    "name":"Tarleton State University",
+    "name":"TSU Tarleton State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19129,7 +19129,7 @@
   },
   {
     "unitid":228778,
-    "name":"The University of Texas at Austin",
+    "name":"UT The University of Texas at Austin",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19159,7 +19159,7 @@
   },
   {
     "unitid":228875,
-    "name":"Texas Christian University",
+    "name":"TCU Texas Christian University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19201,7 +19201,7 @@
   },
   {
     "unitid":229063,
-    "name":"Texas Southern University",
+    "name":"TSU Texas Southern University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19213,7 +19213,7 @@
   },
   {
     "unitid":229115,
-    "name":"Texas Tech University",
+    "name":"TTU Texas Tech University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19381,7 +19381,7 @@
   },
   {
     "unitid":230603,
-    "name":"Southern Utah University",
+    "name":"SUU Southern Utah University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19399,13 +19399,13 @@
   },
   {
     "unitid":230728,
-    "name":"Utah State University",
+    "name":"USU Utah State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":230737,
-    "name":"Utah Valley University",
+    "name":"UVU Utah Valley University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19417,7 +19417,7 @@
   },
   {
     "unitid":230764,
-    "name":"University of Utah",
+    "name":"U University of Utah",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19447,7 +19447,7 @@
   },
   {
     "unitid":230834,
-    "name":"Castleton State College",
+    "name":"CSC Castleton State College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19459,7 +19459,7 @@
   },
   {
     "unitid":230861,
-    "name":"Community College of Vermont",
+    "name":"CCV Community College of Vermont",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19477,13 +19477,13 @@
   },
   {
     "unitid":230913,
-    "name":"Johnson State College",
+    "name":"JSC Johnson State College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":230931,
-    "name":"Lyndon State College",
+    "name":"LSU Lyndon State College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19507,7 +19507,7 @@
   },
   {
     "unitid":230995,
-    "name":"Norwich University",
+    "name":"NU Norwich University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19555,13 +19555,13 @@
   },
   {
     "unitid":231165,
-    "name":"Vermont Technical College",
+    "name":"VTC Vermont Technical College",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":231174,
-    "name":"University of Vermont",
+    "name":"UVM University of Vermont",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19615,7 +19615,7 @@
   },
   {
     "unitid":231712,
-    "name":"Christopher Newport University",
+    "name":"CNU Christopher Newport University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19687,7 +19687,7 @@
   },
   {
     "unitid":232186,
-    "name":"George Mason University",
+    "name":"GMU George Mason University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19705,7 +19705,7 @@
   },
   {
     "unitid":232265,
-    "name":"Hampton University",
+    "name":"HIU HU Hampton University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19723,7 +19723,7 @@
   },
   {
     "unitid":232423,
-    "name":"James Madison University",
+    "name":"JMU James Madison University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19741,7 +19741,7 @@
   },
   {
     "unitid":232557,
-    "name":"Liberty University",
+    "name":"LU Liberty University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19777,7 +19777,7 @@
   },
   {
     "unitid":232706,
-    "name":"Marymount University",
+    "name":"MU Marymount University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19807,7 +19807,7 @@
   },
   {
     "unitid":232937,
-    "name":"Norfolk State University",
+    "name":"NSU Norfolk State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19819,7 +19819,7 @@
   },
   {
     "unitid":232982,
-    "name":"Old Dominion University",
+    "name":"ODU Old Dominion University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19897,7 +19897,7 @@
   },
   {
     "unitid":233374,
-    "name":"University of Richmond",
+    "name":"UR University of Richmond",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -19921,7 +19921,7 @@
   },
   {
     "unitid":233541,
-    "name":"Shenandoah University",
+    "name":"SU Shenandoah University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -20005,13 +20005,13 @@
   },
   {
     "unitid":234030,
-    "name":"Virginia Commonwealth University",
+    "name":"VCU Virginia Commonwealth University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
   {
     "unitid":234076,
-    "name":"University of Virginia-Main Campus",
+    "name":"UVA University of Virginia-Main Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -20143,7 +20143,7 @@
   },
   {
     "unitid":235097,
-    "name":"Eastern Washington University",
+    "name":"EWU Eastern Washington University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -20311,7 +20311,7 @@
   },
   {
     "unitid":236577,
-    "name":"Seattle Pacific University",
+    "name":"SPU Seattle Pacific University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -20437,7 +20437,7 @@
   },
   {
     "unitid":237154,
-    "name":"Mountain State University",
+    "name":"MSU Mountain State University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -21457,7 +21457,7 @@
   },
   {
     "unitid":243744,
-    "name":"Stanford University",
+    "name":"SU Stanford University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -24133,7 +24133,7 @@
   },
   {
     "unitid":432357,
-    "name":"Long Island University-Westchester Campus",
+    "name":" LIU Long Island University-Westchester Campus",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
@@ -24199,7 +24199,7 @@
   },
   {
     "unitid":433660,
-    "name":"Florida Gulf Coast University",
+    "name":"FGCU Florida Gulf Coast University",
     "year":2012,
     "degreegrantingstatus":"Degree-granting"
   },
