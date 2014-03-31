@@ -1,7 +1,7 @@
 institutions-search
 ===================
 
-Search for a U.S. college or university by name (or part of the name).
+Search for a U.S. college or university by name or abbreviation.
 
 [Demo](http://institutions-search.appspot.com/?q=florida)
 
@@ -40,7 +40,3 @@ Tech
 -  Python
 -  JSON
 -  Google App Engine
-
-Todo
----------------------
-Support school abbreviations such as UF, FSU, etc.
