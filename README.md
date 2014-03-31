@@ -1,28 +1,46 @@
 institutions-search
 ===================
 
-Search for a U.S. college or university by name.
+Search for a U.S. college or university by name (or part of the name).
 
 [Demo](http://institutions-search.appspot.com/?q=florida)
 
-**Resource URL**
+Resource URL
+---------------------
 
 http://institutions-search.appspot.com
 
-**Request Type**
+Request Type
+---------------------
 
 GET
 
-**Parameters**
+Parameters
+---------------------
 
-q (optional) - Returns results that contain the value of this paramter.  Values are lowercased before comparison.  If not specified, all U.S. colleges and universities are returned.  
+**q** (optional) - Returns an array of school names that contain the value of this paramter.  Values are lowercased before comparison.  If no match is found, returns an empty array.   If parameter is not specified (or parameter is empty), all U.S. colleges and universities are returned.  
 
-**Response Type**
+Response Type
+---------------------
 
-A JSON array of results.
+JSON
 
-**Tech**
+Example
+---------------------
+
+GET http://institutions-search.appspot.com/?q=fresno
+
+Returns:
+
+    ["California State University-Fresno", "Fresno City College", "Fresno Pacific University", "Heald College-Fresno", "San Joaquin Valley College-Fresno", "San Joaquin Valley College-Fresno Aviation", "Kaplan College-Fresno"]
+
+Tech
+---------------------
 
 -  Python
 -  JSON
 -  Google App Engine
+
+Todo
+---------------------
+Support school abbreviations such as UF, FSU, etc.
